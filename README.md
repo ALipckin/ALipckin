@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Aleksandr Lipckin
 
 🚀 **Backend Developer** focused on building scalable, high-performance systems
